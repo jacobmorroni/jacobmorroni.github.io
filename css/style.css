@@ -1,9 +1,9 @@
 :root {
-    --primaryText: #fff;
-    --secondaryText: #ff015e;
-    --primary: rgba(156, 39, 176, .60);
-    --secondary: rgba(255, 1, 94, .60); 
-    --buttonHover: rgba(156, 39, 176, .40);
+    --primaryText: #DEF3E2;
+    --secondaryText: #2364AA;
+    --primary: #7A9D27;
+    --secondary: #2D4236; 
+    --buttonHover: #2D4236;
     --smallButtonHover: rgba(0, 0, 0, .25);
 }
 
@@ -104,7 +104,7 @@ img {
     min-width: 50%;
     padding: .5em 1em;
     text-decoration: none;
-    color: inherit;
+    color: #DEF3E2;
     text-align: center;
 }
 
@@ -167,7 +167,7 @@ img {
     padding: 0;
     margin: .5em auto 1.5em auto;
     text-decoration: none;
-    color: inherit;
+    color: #DEF3E2;
     height: 2em;
     width: 6em;
 }
@@ -201,7 +201,7 @@ img {
 }
 
 .footer a {
-    color: inherit;
+    color: #DEF3E2;
 }
 
 /* Media queries allow you to change style properties according to the screen width. In this case, if the screen is AT LEAST 540 pixels wide (bigger than a standard phone), the .container resizes to 540 pixels and the buttons and intro resize to 85% of the container width */
