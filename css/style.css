@@ -1,7 +1,7 @@
 :root {
     --primaryText: #DEF3E2;
-    --secondaryText: #2364AA;
-    --primary: #7A9D27;
+    --secondaryText: #6ca7e6;
+    --primary: #0e3b16;
     --secondary: #2D4236; 
     --buttonHover: #2D4236;
     --smallButtonHover: rgba(0, 0, 0, .25);
@@ -72,7 +72,7 @@ img {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    text-shadow: 0 0 3px #000, 0 0 5px #000; 
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .image-container {
